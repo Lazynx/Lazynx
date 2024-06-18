@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Vladislav! 
+<h1>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Vladislav!</h1>
 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=;I'm+a+Full-stack+Developer;I'm+a+Software+Engineer" /></a>
 </p>
 
-   <a href="https://www.linkedin.com/in/shoqqan/" target="_blank">
+   <a href="https://www.linkedin.com/in/Lazynx/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
   
-   <a href="https://t.me/shoqqan" target="_blank">
+   <a href="https://t.me/Lazynx" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>   
  
