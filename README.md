@@ -66,24 +66,24 @@
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </a>
 
-<a href="https://www.php.net/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</a>
-
 <a href="https://www.djangoproject.com/" target="_blank">
     <img alt="Django" src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+</a>
+
+<a href="https://www.php.net/" target="_blank">
+    <img alt="PHP" src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </a>
 
 <a href="https://laravel.com/" target="_blank">
     <img alt="Laravel" src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </a>
 
-<a href="https://www.mongodb.com/" target="_blank">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-</a>
-
 <a href="https://www.mysql.com/" target="_blank">
     <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </a>
 
 <a href="https://aws.amazon.com/" target="_blank">
