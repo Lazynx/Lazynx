@@ -95,7 +95,7 @@
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <div style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start;">
+  <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lazynx&show_icons=true&locale=en&layout=compact" alt="Lazynx" style="margin-right: 10px;" />
     <img src="https://github-readme-stats.vercel.app/api?username=Lazynx&show_icons=true&locale=en" alt="Lazynx" />
   </div>
