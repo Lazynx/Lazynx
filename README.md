@@ -16,7 +16,7 @@
  
 - 🌍  I'm based in Almaty
 - ✉️  You can contact me at [v\_kudinov@kbtu.kz](mailto:v_kudinov@kbtu.kz)
-- 🧠  I'm learning MERN Stack
+- 🧠  I'm a Software Engineer
 
 ![](https://komarev.com/ghpvc/?username=Lazynx)
 
