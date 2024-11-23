@@ -22,8 +22,12 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<a href="https://swift.org/" target="_blank">
-    <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+<a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</a>
+
+<a href="https://www.djangoproject.com/" target="_blank">
+    <img alt="Django" src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </a>
 
 <a href="https://www.typescriptlang.org/" target="_blank">
@@ -32,6 +36,10 @@
 
 <a href="https://developer.mozilla.org/en/docs/Web/JavaScript" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</a>
+
+<a href="https://nodejs.org/en" target="_blank">
+    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </a>
 
 <a href="https://react.dev/" target="_blank">
@@ -52,18 +60,6 @@
 
 <a href="https://nextjs.org/" target="_blank">
     <img alt="Next.JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-</a>
-
-<a href="https://nodejs.org/en" target="_blank">
-    <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank">
-    <img alt="Django" src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </a>
 
 <a href="https://www.php.net/" target="_blank">
