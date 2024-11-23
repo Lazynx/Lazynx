@@ -42,24 +42,12 @@
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </a>
 
-<a href="https://react.dev/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-</a>
-
-<a href="https://www.w3.org/TR/2011/WD-html5-20110405/" target="_blank">
-    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-</a>
-
-<a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-    <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-</a>
-
 <a href="https://nextjs.org/" target="_blank">
     <img alt="Next.JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+</a>
+
+<a href="https://react.dev/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </a>
 
 <a href="https://www.php.net/" target="_blank">
@@ -80,6 +68,18 @@
 
 <a href="https://aws.amazon.com/" target="_blank">
     <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+</a>
+
+<a href="https://www.w3.org/TR/2011/WD-html5-20110405/" target="_blank">
+    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+</a>
+
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </a>
 
 <h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
